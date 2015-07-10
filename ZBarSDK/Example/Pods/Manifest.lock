@@ -1,0 +1,14 @@
+PODS:
+  - ZBarSDK (0.1.0)
+
+DEPENDENCIES:
+  - ZBarSDK (from `../`)
+
+EXTERNAL SOURCES:
+  ZBarSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZBarSDK: f51fbf8fc201736ae2700028bd893b295f90abcb
+
+COCOAPODS: 0.37.2
